@@ -31,7 +31,7 @@ Additionally, please answer the following questions and include them in your
 ## Details
 
 You are tasked to create a 360 image viewer, capable of infinitely cycling
-through a sequence of images. It will consist of a 360 images that can be viewed
+through a sequence of images. It will consist of 360 images that can be viewed
 by adjusting the device's orientation, and a simple 2D UI overlay containing
 buttons that allow the user to switch to the next and previous images.
 
@@ -58,8 +58,8 @@ mockup found below.
 ### Technical
 
 - [ ] Minimize the amount of memory consumed by the application by loading &
-      unloading the 360 images from disk to memory as they switched between
-- [ ] Keep the last 2 images used in memory to minimize loading time when
+      unloading the 360 images from disk to memory as they are switched between
+- [ ] Keep the previously viewed image in memory to minimize loading time when
       swapping to the previous image
 
 ## Mockup
