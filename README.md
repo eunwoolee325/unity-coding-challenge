@@ -18,8 +18,8 @@ create a Unity application targetting mobile devices, either iOS or Android.
 yet well written and functional application, rather than a complete yet poorly
 implemented one.**
 
-Please include a `README` with any setup instructions or other documentation you
-created.
+Please deliver your challenge via a hosted Git service (ex. GitHub), and include
+a `README` with any setup instructions or other documentation you created.
 
 Additionally, please answer the following questions and include them in your
 `README`:
